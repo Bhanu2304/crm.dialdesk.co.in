@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Middleware\\": "src/Middleware/",
+      "Controller\\": "src/Controller/"
+    }
+  }
+}
